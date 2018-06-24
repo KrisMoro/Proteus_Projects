@@ -1,0 +1,104 @@
+WARNING (000878): BLOCK object group 3 unknown/not supported - ignored.
+WARNING (000880): BLOCK object group 1 unknown/not supported - ignored.
+SYMBOL: layer="0", name="*MODEL_SPACE", org=(0,0), 0 entities.
+WARNING (000912): BLOCK object group 3 unknown/not supported - ignored.
+WARNING (000914): BLOCK object group 1 unknown/not supported - ignored.
+SYMBOL: layer="0", name="*PAPER_SPACE", org=(0,0), 0 entities.
+VIEWPORT entity, line 932
+WARNING (000932): Entity expected, found 'VIEWPORT' - ignored.
+LINE entity, line 1030
+WARNING (001036): LINE/3DLINE entity group 67 unknown/not supported - ignored.
+WARNING (001044): LINE/3DLINE entity group 6 unknown/not supported - ignored.
+LINE: layer="Layer_1", p1=(0,0), p2=(0,329602)
+LINE entity, line 1054
+WARNING (001060): LINE/3DLINE entity group 67 unknown/not supported - ignored.
+WARNING (001068): LINE/3DLINE entity group 6 unknown/not supported - ignored.
+LINE: layer="0", p1=(0,0), p2=(0,330042)
+LINE entity, line 1078
+WARNING (001084): LINE/3DLINE entity group 67 unknown/not supported - ignored.
+WARNING (001092): LINE/3DLINE entity group 6 unknown/not supported - ignored.
+LINE: layer="Layer_1", p1=(326893,0), p2=(0,0)
+LINE entity, line 1102
+WARNING (001108): LINE/3DLINE entity group 67 unknown/not supported - ignored.
+WARNING (001116): LINE/3DLINE entity group 6 unknown/not supported - ignored.
+LINE: layer="0", p1=(0,0), p2=(326893,0)
+LINE entity, line 1126
+WARNING (001132): LINE/3DLINE entity group 67 unknown/not supported - ignored.
+WARNING (001140): LINE/3DLINE entity group 6 unknown/not supported - ignored.
+LINE: layer="Layer_1", p1=(272034,49892), p2=(180152,49892)
+LINE entity, line 1150
+WARNING (001156): LINE/3DLINE entity group 67 unknown/not supported - ignored.
+WARNING (001164): LINE/3DLINE entity group 6 unknown/not supported - ignored.
+LINE: layer="Layer_1", p1=(66130,179349), p2=(66130,254057)
+LINE entity, line 1174
+WARNING (001180): LINE/3DLINE entity group 67 unknown/not supported - ignored.
+WARNING (001188): LINE/3DLINE entity group 6 unknown/not supported - ignored.
+LINE: layer="Layer_1", p1=(94225,298754), p2=(94225,330042)
+LINE entity, line 1198
+WARNING (001204): LINE/3DLINE entity group 67 unknown/not supported - ignored.
+WARNING (001212): LINE/3DLINE entity group 6 unknown/not supported - ignored.
+LINE: layer="Layer_1", p1=(180152,152836), p2=(272034,152836)
+LINE entity, line 1222
+WARNING (001228): LINE/3DLINE entity group 67 unknown/not supported - ignored.
+WARNING (001236): LINE/3DLINE entity group 6 unknown/not supported - ignored.
+LINE: layer="Layer_1", p1=(174041,330042), p2=(174041,298754)
+LINE entity, line 1246
+WARNING (001252): LINE/3DLINE entity group 67 unknown/not supported - ignored.
+WARNING (001260): LINE/3DLINE entity group 6 unknown/not supported - ignored.
+LINE: layer="Layer_1", p1=(264074,179349), p2=(66130,179349)
+LINE entity, line 1270
+WARNING (001276): LINE/3DLINE entity group 67 unknown/not supported - ignored.
+WARNING (001284): LINE/3DLINE entity group 6 unknown/not supported - ignored.
+LINE: layer="Layer_1", p1=(180152,49892), p2=(180152,152836)
+LINE entity, line 1294
+WARNING (001300): LINE/3DLINE entity group 67 unknown/not supported - ignored.
+WARNING (001308): LINE/3DLINE entity group 6 unknown/not supported - ignored.
+LINE: layer="Layer_1", p1=(182981,297477), p2=(182981,329403)
+LINE entity, line 1318
+WARNING (001324): LINE/3DLINE entity group 67 unknown/not supported - ignored.
+WARNING (001332): LINE/3DLINE entity group 6 unknown/not supported - ignored.
+LINE: layer="Layer_1", p1=(66130,254057), p2=(264074,254057)
+LINE entity, line 1342
+WARNING (001348): LINE/3DLINE entity group 67 unknown/not supported - ignored.
+WARNING (001356): LINE/3DLINE entity group 6 unknown/not supported - ignored.
+LINE: layer="Layer_1", p1=(264074,254057), p2=(264074,179349)
+LINE entity, line 1366
+WARNING (001372): LINE/3DLINE entity group 67 unknown/not supported - ignored.
+WARNING (001380): LINE/3DLINE entity group 6 unknown/not supported - ignored.
+LINE: layer="Layer_1", p1=(267267,329403), p2=(267267,297477)
+LINE entity, line 1390
+WARNING (001396): LINE/3DLINE entity group 67 unknown/not supported - ignored.
+WARNING (001404): LINE/3DLINE entity group 6 unknown/not supported - ignored.
+LINE: layer="Layer_1", p1=(272034,152836), p2=(272034,49892)
+LINE entity, line 1414
+WARNING (001420): LINE/3DLINE entity group 67 unknown/not supported - ignored.
+WARNING (001428): LINE/3DLINE entity group 6 unknown/not supported - ignored.
+LINE: layer="Layer_1", p1=(267267,297477), p2=(182981,297477)
+LINE entity, line 1438
+WARNING (001444): LINE/3DLINE entity group 67 unknown/not supported - ignored.
+WARNING (001452): LINE/3DLINE entity group 6 unknown/not supported - ignored.
+LINE: layer="Layer_1", p1=(174041,298754), p2=(94225,298754)
+LINE entity, line 1462
+WARNING (001468): LINE/3DLINE entity group 67 unknown/not supported - ignored.
+WARNING (001476): LINE/3DLINE entity group 6 unknown/not supported - ignored.
+LINE: layer="Layer_1", p1=(326893,329602), p2=(326893,0)
+LINE entity, line 1486
+WARNING (001492): LINE/3DLINE entity group 67 unknown/not supported - ignored.
+WARNING (001500): LINE/3DLINE entity group 6 unknown/not supported - ignored.
+LINE: layer="0", p1=(326893,0), p2=(326893,330042)
+LINE entity, line 1510
+WARNING (001516): LINE/3DLINE entity group 67 unknown/not supported - ignored.
+WARNING (001524): LINE/3DLINE entity group 6 unknown/not supported - ignored.
+LINE: layer="Layer_1", p1=(182981,329403), p2=(267267,329403)
+LINE entity, line 1534
+WARNING (001540): LINE/3DLINE entity group 67 unknown/not supported - ignored.
+WARNING (001548): LINE/3DLINE entity group 6 unknown/not supported - ignored.
+LINE: layer="Layer_1", p1=(0,329602), p2=(326893,329602)
+LINE entity, line 1558
+WARNING (001564): LINE/3DLINE entity group 67 unknown/not supported - ignored.
+WARNING (001572): LINE/3DLINE entity group 6 unknown/not supported - ignored.
+LINE: layer="0", p1=(0,330042), p2=(326893,330042)
+LINE entity, line 1582
+WARNING (001588): LINE/3DLINE entity group 67 unknown/not supported - ignored.
+WARNING (001596): LINE/3DLINE entity group 6 unknown/not supported - ignored.
+LINE: layer="Layer_1", p1=(94225,330042), p2=(174041,330042)

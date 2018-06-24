@@ -1,0 +1,442 @@
+WARNING (------): DXF version not recognised or not release 12-15.
+ASCII DXF release 15 is recommended
+WARNING (001690): BLOCK object group 3 unknown/not supported - ignored.
+WARNING (001692): BLOCK object group 1 unknown/not supported - ignored.
+SYMBOL: layer="0", name="*Model_Space", org=(0,0), 0 entities.
+WARNING (001714): BLOCK object group 67 unknown/not supported - ignored.
+WARNING (001730): BLOCK object group 3 unknown/not supported - ignored.
+WARNING (001732): BLOCK object group 1 unknown/not supported - ignored.
+SYMBOL: layer="0", name="*Paper_Space", org=(0,0), 0 entities.
+WARNING (001742): BLOCKS section group 67 unknown/not supported - ignored.
+WARNING (001770): BLOCK object group 3 unknown/not supported - ignored.
+WARNING (001772): BLOCK object group 1 unknown/not supported - ignored.
+SYMBOL: layer="0", name="*Paper_Space0", org=(0,0), 0 entities.
+LINE entity, line 1792
+WARNING (001802): LINE/3DLINE entity group 6 unknown/not supported - ignored.
+WARNING (001806): LINE/3DLINE entity group 370 unknown/not supported - ignored.
+LINE: layer="0", p1=(153763,548141), p2=(153763,552967)
+LINE entity, line 1822
+WARNING (001832): LINE/3DLINE entity group 6 unknown/not supported - ignored.
+WARNING (001836): LINE/3DLINE entity group 370 unknown/not supported - ignored.
+LINE: layer="0", p1=(151858,548141), p2=(153763,548141)
+LINE entity, line 1852
+WARNING (001862): LINE/3DLINE entity group 6 unknown/not supported - ignored.
+WARNING (001866): LINE/3DLINE entity group 370 unknown/not supported - ignored.
+LINE: layer="0", p1=(151858,547887), p2=(151858,548141)
+LINE entity, line 1882
+WARNING (001892): LINE/3DLINE entity group 6 unknown/not supported - ignored.
+WARNING (001896): LINE/3DLINE entity group 370 unknown/not supported - ignored.
+LINE: layer="0", p1=(157573,547887), p2=(151858,547887)
+LINE entity, line 1912
+WARNING (001922): LINE/3DLINE entity group 6 unknown/not supported - ignored.
+WARNING (001926): LINE/3DLINE entity group 370 unknown/not supported - ignored.
+LINE: layer="0", p1=(157573,545347), p2=(157573,547633)
+LINE entity, line 1942
+WARNING (001952): LINE/3DLINE entity group 6 unknown/not supported - ignored.
+WARNING (001956): LINE/3DLINE entity group 370 unknown/not supported - ignored.
+LINE: layer="0", p1=(149318,545347), p2=(157573,545347)
+LINE entity, line 1972
+WARNING (001982): LINE/3DLINE entity group 6 unknown/not supported - ignored.
+WARNING (001986): LINE/3DLINE entity group 370 unknown/not supported - ignored.
+LINE: layer="0", p1=(149318,545347), p2=(149318,553371)
+ARC entity, line 2002
+WARNING (002012): fcb.line, ARC entity group 6 unknown/not supported - ignored.
+WARNING (002016): fcb.line, ARC entity group 370 unknown/not supported - ignored.
+ARC: layer="0", c=(158843,579637), r=27940, start=289.9ø, end=250.1ø
+LINE entity, line 2034
+WARNING (002044): LINE/3DLINE entity group 6 unknown/not supported - ignored.
+WARNING (002048): LINE/3DLINE entity group 370 unknown/not supported - ignored.
+LINE: layer="0", p1=(168368,545347), p2=(168368,553371)
+LINE entity, line 2064
+WARNING (002074): LINE/3DLINE entity group 6 unknown/not supported - ignored.
+WARNING (002078): LINE/3DLINE entity group 370 unknown/not supported - ignored.
+LINE: layer="0", p1=(160113,545347), p2=(168368,545347)
+LINE entity, line 2094
+WARNING (002104): LINE/3DLINE entity group 6 unknown/not supported - ignored.
+WARNING (002108): LINE/3DLINE entity group 370 unknown/not supported - ignored.
+LINE: layer="0", p1=(160113,547633), p2=(160113,545347)
+LINE entity, line 2124
+WARNING (002134): LINE/3DLINE entity group 6 unknown/not supported - ignored.
+WARNING (002138): LINE/3DLINE entity group 370 unknown/not supported - ignored.
+LINE: layer="0", p1=(165828,547887), p2=(160113,547887)
+LINE entity, line 2154
+WARNING (002164): LINE/3DLINE entity group 6 unknown/not supported - ignored.
+WARNING (002168): LINE/3DLINE entity group 370 unknown/not supported - ignored.
+LINE: layer="0", p1=(165828,548141), p2=(165828,547887)
+LINE entity, line 2184
+WARNING (002194): LINE/3DLINE entity group 6 unknown/not supported - ignored.
+WARNING (002198): LINE/3DLINE entity group 370 unknown/not supported - ignored.
+LINE: layer="0", p1=(163923,548141), p2=(165828,548141)
+ARC entity, line 2214
+WARNING (002224): fcb.line, ARC entity group 6 unknown/not supported - ignored.
+WARNING (002228): fcb.line, ARC entity group 370 unknown/not supported - ignored.
+ARC: layer="0", c=(158843,579637), r=21590, start=48.2ø, end=80.4ø
+LINE entity, line 2246
+WARNING (002256): LINE/3DLINE entity group 6 unknown/not supported - ignored.
+WARNING (002260): LINE/3DLINE entity group 370 unknown/not supported - ignored.
+LINE: layer="0", p1=(174930,597623), p2=(173236,595730)
+ARC entity, line 2276
+WARNING (002286): fcb.line, ARC entity group 6 unknown/not supported - ignored.
+WARNING (002290): fcb.line, ARC entity group 370 unknown/not supported - ignored.
+ARC: layer="0", c=(158843,579637), r=24130, start=48.2ø, end=80.4ø
+LINE entity, line 2308
+WARNING (002318): LINE/3DLINE entity group 6 unknown/not supported - ignored.
+WARNING (002322): LINE/3DLINE entity group 370 unknown/not supported - ignored.
+LINE: layer="0", p1=(162441,600925), p2=(162865,603430)
+ARC entity, line 2338
+WARNING (002348): fcb.line, ARC entity group 6 unknown/not supported - ignored.
+WARNING (002352): fcb.line, ARC entity group 370 unknown/not supported - ignored.
+ARC: layer="0", c=(158843,579637), r=21590, start=99.6ø, end=131.8ø
+LINE entity, line 2370
+WARNING (002380): LINE/3DLINE entity group 6 unknown/not supported - ignored.
+WARNING (002384): LINE/3DLINE entity group 370 unknown/not supported - ignored.
+LINE: layer="0", p1=(154821,603430), p2=(155245,600925)
+ARC entity, line 2400
+WARNING (002410): fcb.line, ARC entity group 6 unknown/not supported - ignored.
+WARNING (002414): fcb.line, ARC entity group 370 unknown/not supported - ignored.
+ARC: layer="0", c=(158843,579637), r=24130, start=99.6ø, end=131.8ø
+LINE entity, line 2432
+WARNING (002442): LINE/3DLINE entity group 6 unknown/not supported - ignored.
+WARNING (002446): LINE/3DLINE entity group 370 unknown/not supported - ignored.
+LINE: layer="0", p1=(144450,595730), p2=(142756,597623)
+LINE entity, line 2462
+WARNING (002472): LINE/3DLINE entity group 6 unknown/not supported - ignored.
+WARNING (002476): LINE/3DLINE entity group 370 unknown/not supported - ignored.
+LINE: layer="0", p1=(157319,598766), p2=(157319,599782)
+LINE entity, line 2492
+WARNING (002502): LINE/3DLINE entity group 6 unknown/not supported - ignored.
+WARNING (002506): LINE/3DLINE entity group 370 unknown/not supported - ignored.
+LINE: layer="0", p1=(160367,598766), p2=(157319,598766)
+LINE entity, line 2522
+WARNING (002532): LINE/3DLINE entity group 6 unknown/not supported - ignored.
+WARNING (002536): LINE/3DLINE entity group 370 unknown/not supported - ignored.
+LINE: layer="0", p1=(160367,599782), p2=(160367,598766)
+LINE entity, line 2552
+WARNING (002562): LINE/3DLINE entity group 6 unknown/not supported - ignored.
+WARNING (002566): LINE/3DLINE entity group 370 unknown/not supported - ignored.
+LINE: layer="0", p1=(157319,599782), p2=(160367,599782)
+LINE entity, line 2582
+WARNING (002592): LINE/3DLINE entity group 6 unknown/not supported - ignored.
+WARNING (002596): LINE/3DLINE entity group 370 unknown/not supported - ignored.
+LINE: layer="0", p1=(153763,552967), p2=(163923,552967)
+LINE entity, line 2612
+WARNING (002622): LINE/3DLINE entity group 6 unknown/not supported - ignored.
+WARNING (002626): LINE/3DLINE entity group 370 unknown/not supported - ignored.
+LINE: layer="0", p1=(163923,552967), p2=(163923,548141)
+LINE entity, line 2642
+WARNING (002652): LINE/3DLINE entity group 6 unknown/not supported - ignored.
+WARNING (002656): LINE/3DLINE entity group 370 unknown/not supported - ignored.
+LINE: layer="0", p1=(160113,545347), p2=(157573,545347)
+LINE entity, line 2672
+WARNING (002682): LINE/3DLINE entity group 6 unknown/not supported - ignored.
+WARNING (002686): LINE/3DLINE entity group 370 unknown/not supported - ignored.
+LINE: layer="0", p1=(160113,599020), p2=(157573,599020)
+LINE entity, line 2702
+WARNING (002712): LINE/3DLINE entity group 6 unknown/not supported - ignored.
+WARNING (002716): LINE/3DLINE entity group 370 unknown/not supported - ignored.
+LINE: layer="0", p1=(157573,599528), p2=(160113,599528)
+LINE entity, line 2732
+WARNING (002742): LINE/3DLINE entity group 6 unknown/not supported - ignored.
+WARNING (002746): LINE/3DLINE entity group 370 unknown/not supported - ignored.
+LINE: layer="0", p1=(160113,599528), p2=(160113,599020)
+LINE entity, line 2762
+WARNING (002772): LINE/3DLINE entity group 6 unknown/not supported - ignored.
+WARNING (002776): LINE/3DLINE entity group 370 unknown/not supported - ignored.
+LINE: layer="0", p1=(157573,599020), p2=(157573,599528)
+LINE entity, line 2792
+WARNING (002802): LINE/3DLINE entity group 6 unknown/not supported - ignored.
+WARNING (002806): LINE/3DLINE entity group 370 unknown/not supported - ignored.
+LINE: layer="0", p1=(160113,598766), p2=(160113,599020)
+LINE entity, line 2822
+WARNING (002832): LINE/3DLINE entity group 6 unknown/not supported - ignored.
+WARNING (002836): LINE/3DLINE entity group 370 unknown/not supported - ignored.
+LINE: layer="0", p1=(157573,598766), p2=(157573,599020)
+LINE entity, line 2852
+WARNING (002862): LINE/3DLINE entity group 6 unknown/not supported - ignored.
+WARNING (002866): LINE/3DLINE entity group 370 unknown/not supported - ignored.
+LINE: layer="0", p1=(157573,547633), p2=(160113,547633)
+LINE entity, line 2882
+WARNING (002892): LINE/3DLINE entity group 6 unknown/not supported - ignored.
+WARNING (002896): LINE/3DLINE entity group 370 unknown/not supported - ignored.
+LINE: layer="0", p1=(160113,547633), p2=(160113,548141)
+LINE entity, line 2912
+WARNING (002922): LINE/3DLINE entity group 6 unknown/not supported - ignored.
+WARNING (002926): LINE/3DLINE entity group 370 unknown/not supported - ignored.
+LINE: layer="0", p1=(157573,548141), p2=(157573,547633)
+LINE entity, line 2942
+WARNING (002952): LINE/3DLINE entity group 6 unknown/not supported - ignored.
+WARNING (002956): LINE/3DLINE entity group 370 unknown/not supported - ignored.
+LINE: layer="0", p1=(160113,548141), p2=(157573,548141)
+LINE entity, line 2972
+WARNING (002982): LINE/3DLINE entity group 6 unknown/not supported - ignored.
+WARNING (002986): LINE/3DLINE entity group 370 unknown/not supported - ignored.
+LINE: layer="0", p1=(160113,548141), p2=(165828,548141)
+LINE entity, line 3002
+WARNING (003012): LINE/3DLINE entity group 6 unknown/not supported - ignored.
+WARNING (003016): LINE/3DLINE entity group 370 unknown/not supported - ignored.
+LINE: layer="0", p1=(151858,548141), p2=(157573,548141)
+LINE entity, line 3032
+WARNING (003042): LINE/3DLINE entity group 6 unknown/not supported - ignored.
+WARNING (003046): LINE/3DLINE entity group 370 unknown/not supported - ignored.
+LINE: layer="0", p1=(163923,551212), p2=(153763,551212)
+EXPORT ARC: Unmapped arc: o=(158843,579637), r=27940, sa=289.9ø, ea=250.1ø.
+EXPORT ARC: CTM: o=(0,0), rot=0.0ø, xscale=1.000000, yscale=1.000000
+LINEARISING: c1=(9510,-26272) max=139
+   c1=(9510,-26272), c2=(17891,-8381), c3=(26272,9510), cs=289.9ø, cm=334.9ø, ce=379.9ø, pt=(25302,-11852), d=8183
+   c1=(9510,-26272), c2=(17406,-19062), c3=(25302,-11852), cs=289.9ø, cm=312.4ø, ce=334.9ø, pt=(18840,-20632), d=2126
+   c1=(9510,-26272), c2=(14175,-23452), c3=(18840,-20632), cs=289.9ø, cm=301.1ø, ce=312.4ø, pt=(14432,-23924), d=537
+   c1=(9510,-26272), c2=(11971,-25098), c3=(14432,-23924), cs=289.9ø, cm=295.5ø, ce=301.1ø, pt=(12028,-25218), d=132
+LINEARISING DONE. c3=(14432,-23924) cs=301.1ø (end=610.1)
+LINEARISING: c1=(14432,-23924) max=139
+   c1=(14432,-23924), c2=(19178,-4746), c3=(23924,14432), cs=301.1ø, cm=346.1ø, ce=391.1ø, pt=(27122,-6712), d=8183
+   c1=(14432,-23924), c2=(20777,-15318), c3=(27122,-6712), cs=301.1ø, cm=323.6ø, ce=346.1ø, pt=(22489,-16580), d=2126
+   c1=(14432,-23924), c2=(18460,-20252), c3=(22489,-16580), cs=301.1ø, cm=312.3ø, ce=323.6ø, pt=(18804,-20665), d=537
+   c1=(14432,-23924), c2=(16618,-22294), c3=(18804,-20665), cs=301.1ø, cm=306.7ø, ce=312.3ø, pt=(16698,-22402), d=134
+LINEARISING DONE. c3=(18804,-20665) cs=312.3ø (end=610.1)
+LINEARISING: c1=(18804,-20665) max=139
+   c1=(18804,-20665), c2=(19734,-930), c3=(20665,18804), cs=312.3ø, cm=357.3ø, ce=402.3ø, pt=(27909,-1316), d=8184
+   c1=(18804,-20665), c2=(23356,-10990), c3=(27909,-1316), cs=312.3ø, cm=334.8ø, ce=357.3ø, pt=(25281,-11896), d=2127
+   c1=(18804,-20665), c2=(22042,-16280), c3=(25281,-11896), cs=312.3ø, cm=323.5ø, ce=334.8ø, pt=(22460,-16619), d=538
+   c1=(18804,-20665), c2=(20632,-18642), c3=(22460,-16619), cs=312.3ø, cm=317.9ø, ce=323.5ø, pt=(20731,-18732), d=133
+LINEARISING DONE. c3=(22460,-16619) cs=323.5ø (end=610.1)
+LINEARISING: c1=(22460,-16619) max=139
+   c1=(22460,-16619), c2=(19539,2920), c3=(16619,22460), cs=323.5ø, cm=368.5ø, ce=413.5ø, pt=(27633,4130), d=8183
+   c1=(22460,-16619), c2=(25046,-6244), c3=(27633,4130), cs=323.5ø, cm=346.0ø, ce=368.5ø, pt=(27110,-6759), d=2127
+   c1=(22460,-16619), c2=(24785,-11689), c3=(27110,-6759), cs=323.5ø, cm=334.7ø, ce=346.0ø, pt=(25260,-11940), d=537
+   c1=(22460,-16619), c2=(23860,-14279), c3=(25260,-11940), cs=323.5ø, cm=329.1ø, ce=334.7ø, pt=(23974,-14348), d=133
+LINEARISING DONE. c3=(25260,-11940) cs=334.7ø (end=610.1)
+LINEARISING: c1=(25260,-11940) max=139
+   c1=(25260,-11940), c2=(18600,6660), c3=(11940,25260), cs=334.7ø, cm=379.7ø, ce=424.7ø, pt=(26305,9418), d=8183
+   c1=(25260,-11940), c2=(25782,-1261), c3=(26305,9418), cs=334.7ø, cm=357.2ø, ce=379.7ø, pt=(27907,-1365), d=2127
+   c1=(25260,-11940), c2=(26583,-6652), c3=(27907,-1365), cs=334.7ø, cm=345.9ø, ce=357.2ø, pt=(27098,-6807), d=537
+   c1=(25260,-11940), c2=(26179,-9373), c3=(27098,-6807), cs=334.7ø, cm=340.3ø, ce=345.9ø, pt=(26305,-9418), d=133
+LINEARISING DONE. c3=(27098,-6807) cs=345.9ø (end=610.1)
+LINEARISING: c1=(27098,-6807) max=139
+   c1=(27098,-6807), c2=(16952,10145), c3=(6807,27098), cs=345.9ø, cm=390.9ø, ce=435.9ø, pt=(23974,14348), d=8183
+   c1=(27098,-6807), c2=(25536,3770), c3=(23974,14348), cs=345.9ø, cm=368.4ø, ce=390.9ø, pt=(27640,4082), d=2127
+   c1=(27098,-6807), c2=(27369,-1362), c3=(27640,4082), cs=345.9ø, cm=357.1ø, ce=368.4ø, pt=(27904,-1414), d=537
+   c1=(27098,-6807), c2=(27501,-4110), c3=(27904,-1414), cs=345.9ø, cm=351.5ø, ce=357.1ø, pt=(27633,-4130), d=133
+LINEARISING DONE. c3=(27904,-1414) cs=357.1ø (end=610.1)
+LINEARISING: c1=(27904,-1414) max=139
+   c1=(27904,-1414), c2=(14659,13245), c3=(1414,27904), cs=357.1ø, cm=402.1ø, ce=447.1ø, pt=(20731,18732), d=8183
+   c1=(27904,-1414), c2=(24317,8659), c3=(20731,18732), cs=357.1ø, cm=379.6ø, ce=402.1ø, pt=(26321,9373), d=2127
+   c1=(27904,-1414), c2=(27112,3979), c3=(26321,9373), cs=357.1ø, cm=368.3ø, ce=379.6ø, pt=(27647,4033), d=537
+   c1=(27904,-1414), c2=(27775,1309), c3=(27647,4033), cs=357.1ø, cm=362.7ø, ce=368.3ø, pt=(27909,1316), d=134
+LINEARISING DONE. c3=(27647,4033) cs=368.3ø (end=610.1)
+LINEARISING: c1=(27647,4033) max=139
+   c1=(27647,4033), c2=(11807,15840), c3=(-4033,27647), cs=368.3ø, cm=413.3ø, ce=458.3ø, pt=(16698,22402), d=8184
+   c1=(27647,4033), c2=(22172,13217), c3=(16698,22402), cs=368.3ø, cm=390.8ø, ce=413.3ø, pt=(23999,14306), d=2126
+   c1=(27647,4033), c2=(25823,9169), c3=(23999,14306), cs=368.3ø, cm=379.5ø, ce=390.8ø, pt=(26337,9327), d=537
+   c1=(27647,4033), c2=(26992,6680), c3=(26337,9327), cs=368.3ø, cm=373.9ø, ce=379.5ø, pt=(27122,6712), d=133
+LINEARISING DONE. c3=(26337,9327) cs=379.5ø (end=610.1)
+LINEARISING: c1=(26337,9327) max=139
+   c1=(26337,9327), c2=(8505,17832), c3=(-9327,26337), cs=379.5ø, cm=424.5ø, ce=469.5ø, pt=(12028,25218), d=8183
+   c1=(26337,9327), c2=(19182,17272), c3=(12028,25218), cs=379.5ø, cm=402.0ø, ce=424.5ø, pt=(20763,18696), d=2127
+   c1=(26337,9327), c2=(23550,14011), c3=(20763,18696), cs=379.5ø, cm=390.7ø, ce=402.0ø, pt=(24024,14265), d=537
+   c1=(26337,9327), c2=(25180,11796), c3=(24024,14265), cs=379.5ø, cm=385.1ø, ce=390.7ø, pt=(25302,11852), d=134
+LINEARISING DONE. c3=(24024,14265) cs=390.7ø (end=610.1)
+LINEARISING: c1=(24024,14265) max=139
+   c1=(24024,14265), c2=(4879,19144), c3=(-14265,24024), cs=390.7ø, cm=435.7ø, ce=480.7ø, pt=(6901,27074), d=8183
+   c1=(24024,14265), c2=(15462,20669), c3=(6901,27074), cs=390.7ø, cm=413.2ø, ce=435.7ø, pt=(16737,22372), d=2127
+   c1=(24024,14265), c2=(20380,18318), c3=(16737,22372), cs=390.7ø, cm=401.9ø, ce=413.2ø, pt=(20796,18659), d=537
+   c1=(24024,14265), c2=(22410,16462), c3=(20796,18659), cs=390.7ø, cm=396.3ø, ce=401.9ø, pt=(22518,16541), d=133
+LINEARISING DONE. c3=(20796,18659) cs=401.9ø (end=610.1)
+LINEARISING: c1=(20796,18659) max=139
+   c1=(20796,18659), c2=(1068,19727), c3=(-18659,20796), cs=401.9ø, cm=446.9ø, ce=491.9ø, pt=(1511,27899), d=8183
+   c1=(20796,18659), c2=(11153,23279), c3=(1511,27899), cs=401.9ø, cm=424.4ø, ce=446.9ø, pt=(12072,25197), d=2126
+   c1=(20796,18659), c2=(16434,21928), c3=(12072,25197), cs=401.9ø, cm=413.1ø, ce=424.4ø, pt=(16776,22343), d=537
+   c1=(20796,18659), c2=(18786,20501), c3=(16776,22343), cs=401.9ø, cm=407.5ø, ce=413.1ø, pt=(18876,20600), d=133
+LINEARISING DONE. c3=(16776,22343) cs=413.1ø (end=610.1)
+LINEARISING: c1=(16776,22343) max=139
+   c1=(16776,22343), c2=(-2783,19559), c3=(-22343,16776), cs=413.1ø, cm=458.1ø, ce=503.1ø, pt=(-3937,27661), d=8183
+   c1=(16776,22343), c2=(6419,25002), c3=(-3937,27661), cs=413.1ø, cm=435.6ø, ce=458.1ø, pt=(6948,27062), d=2126
+   c1=(16776,22343), c2=(11862,24702), c3=(6948,27062), cs=413.1ø, cm=424.3ø, ce=435.6ø, pt=(12116,25176), d=537
+   c1=(16776,22343), c2=(14446,23759), c3=(12116,25176), cs=413.1ø, cm=418.7ø, ce=424.3ø, pt=(14515,23874), d=134
+LINEARISING DONE. c3=(12116,25176) cs=424.3ø (end=610.1)
+LINEARISING: c1=(12116,25176) max=139
+   c1=(12116,25176), c2=(-6530,18646), c3=(-25176,12116), cs=424.3ø, cm=469.3ø, ce=514.3ø, pt=(-9235,26370), d=8183
+   c1=(12116,25176), c2=(1440,25773), c3=(-9235,26370), cs=424.3ø, cm=446.8ø, ce=469.3ø, pt=(1560,27896), d=2126
+   c1=(12116,25176), c2=(6838,26536), c3=(1560,27896), cs=424.3ø, cm=435.5ø, ce=446.8ø, pt=(6996,27050), d=537
+   c1=(12116,25176), c2=(9556,26113), c3=(6996,27050), cs=424.3ø, cm=429.9ø, ce=435.5ø, pt=(9602,26238), d=133
+LINEARISING DONE. c3=(6996,27050) cs=435.5ø (end=610.1)
+LINEARISING: c1=(6996,27050) max=139
+   c1=(6996,27050), c2=(-10027,17023), c3=(-27050,6996), cs=435.5ø, cm=480.5ø, ce=525.5ø, pt=(-14181,24074), d=8183
+   c1=(6996,27050), c2=(-3592,25562), c3=(-14181,24074), cs=435.5ø, cm=458.0ø, ce=480.5ø, pt=(-3888,27668), d=2126
+   c1=(6996,27050), c2=(1554,27359), c3=(-3888,27668), cs=435.5ø, cm=446.7ø, ce=458.0ø, pt=(1608,27894), d=537
+   c1=(6996,27050), c2=(4302,27472), c3=(1608,27894), cs=435.5ø, cm=441.1ø, ce=446.7ø, pt=(4323,27604), d=133
+LINEARISING DONE. c3=(1608,27894) cs=446.7ø (end=610.1)
+LINEARISING: c1=(1608,27894) max=139
+   c1=(1608,27894), c2=(-13143,14751), c3=(-27894,1608), cs=446.7ø, cm=491.7ø, ce=536.7ø, pt=(-18587,20861), d=8183
+   c1=(1608,27894), c2=(-8489,24377), c3=(-18587,20861), cs=446.7ø, cm=469.2ø, ce=491.7ø, pt=(-9189,26386), d=2127
+   c1=(1608,27894), c2=(-3790,27140), c3=(-9189,26386), cs=446.7ø, cm=457.9ø, ce=469.2ø, pt=(-3840,27675), d=537
+   c1=(1608,27894), c2=(-1116,27784), c3=(-3840,27675), cs=446.7ø, cm=452.3ø, ce=457.9ø, pt=(-1121,27917), d=133
+LINEARISING DONE. c3=(-3840,27675) cs=457.9ø (end=610.1)
+LINEARISING: c1=(-3840,27675) max=139
+   c1=(-3840,27675), c2=(-15757,11917), c3=(-27675,-3840), cs=457.9ø, cm=502.9ø, ce=547.9ø, pt=(-22284,16854), d=8183
+   c1=(-3840,27675), c2=(-13062,22264), c3=(-22284,16854), cs=457.9ø, cm=480.4ø, ce=502.9ø, pt=(-14139,24099), d=2127
+   c1=(-3840,27675), c2=(-8989,25887), c3=(-14139,24099), cs=457.9ø, cm=469.1ø, ce=480.4ø, pt=(-9142,26402), d=537
+   c1=(-3840,27675), c2=(-6491,27038), c3=(-9142,26402), cs=457.9ø, cm=463.5ø, ce=469.1ø, pt=(-6522,27168), d=133
+LINEARISING DONE. c3=(-9142,26402) cs=469.1ø (end=610.1)
+LINEARISING: c1=(-9142,26402) max=139
+   c1=(-9142,26402), c2=(-17772,8630), c3=(-26402,-9142), cs=469.1ø, cm=514.1ø, ce=559.1ø, pt=(-25134,12204), d=8183
+   c1=(-9142,26402), c2=(-17138,19303), c3=(-25134,12204), cs=469.1ø, cm=491.6ø, ce=514.1ø, pt=(-18550,20893), d=2126
+   c1=(-9142,26402), c2=(-13846,23647), c3=(-18550,20893), cs=469.1ø, cm=480.3ø, ce=491.6ø, pt=(-14097,24123), d=538
+   c1=(-9142,26402), c2=(-11619,25262), c3=(-14097,24123), cs=469.1ø, cm=474.7ø, ce=480.3ø, pt=(-11675,25384), d=134
+LINEARISING DONE. c3=(-14097,24123) cs=480.3ø (end=610.1)
+LINEARISING: c1=(-14097,24123) max=139
+   c1=(-14097,24123), c2=(-19110,5013), c3=(-24123,-14097), cs=480.3ø, cm=525.3ø, ce=570.3ø, pt=(-27025,7090), d=8182
+   c1=(-14097,24123), c2=(-20561,15606), c3=(-27025,7090), cs=480.3ø, cm=502.8ø, ce=525.3ø, pt=(-22255,16892), d=2126
+   c1=(-14097,24123), c2=(-18176,20507), c3=(-22255,16892), cs=480.3ø, cm=491.5ø, ce=502.8ø, pt=(-18514,20926), d=538
+   c1=(-14097,24123), c2=(-16305,22524), c3=(-18514,20926), cs=480.3ø, cm=485.9ø, ce=491.5ø, pt=(-16383,22633), d=134
+LINEARISING DONE. c3=(-18514,20926) cs=491.5ø (end=610.1)
+LINEARISING: c1=(-18514,20926) max=139
+   c1=(-18514,20926), c2=(-19720,1206), c3=(-20926,-18514), cs=491.5ø, cm=536.5ø, ce=581.5ø, pt=(-27888,1706), d=8183
+   c1=(-18514,20926), c2=(-23201,11316), c3=(-27888,1706), cs=491.5ø, cm=514.0ø, ce=536.5ø, pt=(-25112,12248), d=2126
+   c1=(-18514,20926), c2=(-21813,16587), c3=(-25112,12248), cs=491.5ø, cm=502.7ø, ce=514.0ø, pt=(-22226,16931), d=537
+   c1=(-18514,20926), c2=(-20370,18928), c3=(-22226,16931), cs=491.5ø, cm=497.1ø, ce=502.7ø, pt=(-20467,19019), d=133
+LINEARISING DONE. c3=(-22226,16931) cs=502.7ø (end=610.1)
+LINEARISING: c1=(-22226,16931) max=139
+   c1=(-22226,16931), c2=(-19578,-2647), c3=(-16931,-22226), cs=502.7ø, cm=547.7ø, ce=592.7ø, pt=(-27688,-3744), d=8183
+   c1=(-22226,16931), c2=(-24957,6593), c3=(-27688,-3744), cs=502.7ø, cm=525.2ø, ce=547.7ø, pt=(-27013,7137), d=2126
+   c1=(-22226,16931), c2=(-24619,12034), c3=(-27013,7137), cs=502.7ø, cm=513.9ø, ce=525.2ø, pt=(-25091,12292), d=537
+   c1=(-22226,16931), c2=(-23658,14611), c3=(-25091,12292), cs=502.7ø, cm=508.3ø, ce=513.9ø, pt=(-23772,14682), d=134
+LINEARISING DONE. c3=(-25091,12292) cs=513.9ø (end=610.1)
+LINEARISING: c1=(-25091,12292) max=139
+   c1=(-25091,12292), c2=(-18691,-6399), c3=(-12292,-25091), cs=513.9ø, cm=558.9ø, ce=603.9ø, pt=(-26434,-9050), d=8184
+   c1=(-25091,12292), c2=(-25762,1621), c3=(-26434,-9050), cs=513.9ø, cm=536.4ø, ce=558.9ø, pt=(-27885,1754), d=2127
+   c1=(-25091,12292), c2=(-26488,7023), c3=(-27885,1754), cs=513.9ø, cm=525.1ø, ce=536.4ø, pt=(-27001,7184), d=537
+   c1=(-25091,12292), c2=(-26046,9738), c3=(-27001,7184), cs=513.9ø, cm=519.5ø, ce=525.1ø, pt=(-26171,9785), d=133
+LINEARISING DONE. c3=(-27001,7184) cs=525.1ø (end=610.1)
+LINEARISING: c1=(-27001,7184) max=139
+   c1=(-27001,7184), c2=(-18255,-9544), c3=(-9510,-26272), cs=525.1ø, cm=567.6ø, ce=610.1ø, pt=(-24761,-12944), d=7340
+   c1=(-27001,7184), c2=(-25881,-2880), c3=(-24761,-12944), cs=525.1ø, cm=546.3ø, ce=567.6ø, pt=(-27771,-3066), d=1899
+   c1=(-27001,7184), c2=(-27386,2059), c3=(-27771,-3066), cs=525.1ø, cm=535.7ø, ce=546.3ø, pt=(-27861,2095), d=476
+   c1=(-27001,7184), c2=(-27431,4639), c3=(-27861,2095), cs=525.1ø, cm=530.4ø, ce=535.7ø, pt=(-27549,4660), d=119
+LINEARISING DONE. c3=(-27861,2095) cs=535.7ø (end=610.1)
+LINEARISING: c1=(-27861,2095) max=139
+   c1=(-27861,2095), c2=(-18685,-12088), c3=(-9510,-26272), cs=535.7ø, cm=572.9ø, ce=610.1ø, pt=(-23459,-15176), d=5685
+   c1=(-27861,2095), c2=(-25660,-6540), c3=(-23459,-15176), cs=535.7ø, cm=554.3ø, ce=572.9ø, pt=(-27074,-6901), d=1459
+   c1=(-27861,2095), c2=(-27467,-2403), c3=(-27074,-6901), cs=535.7ø, cm=545.0ø, ce=554.3ø, pt=(-27834,-2435), d=368
+   c1=(-27861,2095), c2=(-27847,-170), c3=(-27834,-2435), cs=535.7ø, cm=540.3ø, ce=545.0ø, pt=(-27940,-146), d=96
+LINEARISING DONE. c3=(-27834,-2435) cs=545.0ø (end=610.1)
+LINEARISING: c1=(-27834,-2435) max=139
+   c1=(-27834,-2435), c2=(-18672,-14353), c3=(-9510,-26272), cs=545.0ø, cm=577.5ø, ce=610.1ø, pt=(-22166,-17009), d=4388
+   c1=(-27834,-2435), c2=(-25000,-9722), c3=(-22166,-17009), cs=545.0ø, cm=561.2ø, ce=577.5ø, pt=(-26049,-10104), d=1116
+   c1=(-27834,-2435), c2=(-26941,-6269), c3=(-26049,-10104), cs=545.0ø, cm=553.1ø, ce=561.2ø, pt=(-27213,-6333), d=279
+   c1=(-27834,-2435), c2=(-27523,-4384), c3=(-27213,-6333), cs=545.0ø, cm=549.0ø, ce=553.1ø, pt=(-27596,-4371), d=74
+LINEARISING DONE. c3=(-27213,-6333) cs=553.1ø (end=610.1)
+LINEARISING: c1=(-27213,-6333) max=139
+   c1=(-27213,-6333), c2=(-18361,-16302), c3=(-9510,-26272), cs=553.1ø, cm=581.6ø, ce=610.1ø, pt=(-20893,-18550), d=3385
+   c1=(-27213,-6333), c2=(-24053,-12441), c3=(-20893,-18550), cs=553.1ø, cm=567.3ø, ce=581.6ø, pt=(-24828,-12815), d=860
+   c1=(-27213,-6333), c2=(-26020,-9574), c3=(-24828,-12815), cs=553.1ø, cm=560.2ø, ce=567.3ø, pt=(-26221,-9648), d=214
+   c1=(-27213,-6333), c2=(-26717,-7990), c3=(-26221,-9648), cs=553.1ø, cm=556.6ø, ce=560.2ø, pt=(-26776,-7982), d=59
+LINEARISING DONE. c3=(-26221,-9648) cs=560.2ø (end=610.1)
+LINEARISING: c1=(-26221,-9648) max=139
+   c1=(-26221,-9648), c2=(-17865,-17960), c3=(-9510,-26272), cs=560.2ø, cm=585.1ø, ce=610.1ø, pt=(-19722,-19791), d=2607
+   c1=(-26221,-9648), c2=(-22971,-14719), c3=(-19722,-19791), cs=560.2ø, cm=572.6ø, ce=585.1ø, pt=(-23538,-15053), d=658
+   c1=(-26221,-9648), c2=(-24879,-12350), c3=(-23538,-15053), cs=560.2ø, cm=566.4ø, ce=572.6ø, pt=(-25026,-12423), d=164
+   c1=(-26221,-9648), c2=(-25623,-11035), c3=(-25026,-12423), cs=560.2ø, cm=563.3ø, ce=566.4ø, pt=(-25661,-11052), d=41
+LINEARISING DONE. c3=(-25026,-12423) cs=566.4ø (end=610.1)
+LINEARISING: c1=(-25026,-12423) max=139
+   c1=(-25026,-12423), c2=(-17268,-19347), c3=(-9510,-26272), cs=566.4ø, cm=588.2ø, ce=610.1ø, pt=(-18623,-20829), d=2008
+   c1=(-25026,-12423), c2=(-21824,-16626), c3=(-18623,-20829), cs=566.4ø, cm=577.3ø, ce=588.2ø, pt=(-22226,-16931), d=504
+   c1=(-25026,-12423), c2=(-23626,-14677), c3=(-22226,-16931), cs=566.4ø, cm=571.8ø, ce=577.3ø, pt=(-23746,-14723), d=128
+LINEARISING DONE. c3=(-22226,-16931) cs=577.3ø (end=610.1)
+LINEARISING: c1=(-22226,-16931) max=139
+   c1=(-22226,-16931), c2=(-15868,-21601), c3=(-9510,-26272), cs=577.3ø, cm=593.7ø, ce=610.1ø, pt=(-16541,-22518), d=1137
+   c1=(-22226,-16931), c2=(-19383,-19724), c3=(-16541,-22518), cs=577.3ø, cm=585.5ø, ce=593.7ø, pt=(-19583,-19928), d=285
+   c1=(-22226,-16931), c2=(-20904,-18429), c3=(-19583,-19928), cs=577.3ø, cm=581.4ø, ce=585.5ø, pt=(-20958,-18477), d=72
+LINEARISING DONE. c3=(-19583,-19928) cs=585.5ø (end=610.1)
+LINEARISING: c1=(-19583,-19928) max=139
+   c1=(-19583,-19928), c2=(-14546,-23100), c3=(-9510,-26272), cs=585.5ø, cm=597.8ø, ce=610.1ø, pt=(-14889,-23643), d=642
+   c1=(-19583,-19928), c2=(-17236,-21785), c3=(-14889,-23643), cs=585.5ø, cm=591.6ø, ce=597.8ø, pt=(-17355,-21896), d=162
+   c1=(-19583,-19928), c2=(-18469,-20912), c3=(-17355,-21896), cs=585.5ø, cm=588.5ø, ce=591.6ø, pt=(-18514,-20926), d=47
+LINEARISING DONE. c3=(-17355,-21896) cs=591.6ø (end=610.1)
+LINEARISING: c1=(-17355,-21896) max=139
+   c1=(-17355,-21896), c2=(-13432,-24084), c3=(-9510,-26272), cs=591.6ø, cm=600.8ø, ce=610.1ø, pt=(-13631,-24389), d=364
+   c1=(-17355,-21896), c2=(-15493,-23142), c3=(-13631,-24389), cs=591.6ø, cm=596.2ø, ce=600.8ø, pt=(-15543,-23218), d=90
+LINEARISING DONE. c3=(-13631,-24389) cs=600.8ø (end=610.1)
+LINEARISING: c1=(-13631,-24389) max=139
+   c1=(-13631,-24389), c2=(-11570,-25330), c3=(-9510,-26272), cs=600.8ø, cm=605.4ø, ce=610.1ø, pt=(-11631,-25404), d=95
+LINEARISING DONE. c3=(-9510,-26272) cs=610.1ø (end=610.1)
+EXPORT ARC: Arc linearised to 33 points.
+EXPORT ARC: Unmapped arc: o=(158843,579637), r=21590, sa=48.2ø, ea= 80.4ø.
+EXPORT ARC: CTM: o=(0,0), rot=0.0ø, xscale=1.000000, yscale=1.000000
+LINEARISING: c1=(14390,16095) max=107
+   c1=(14390,16095), c2=(8995,18691), c3=(3601,21288), cs=48.2ø, cm=64.3ø, ce=80.4ø, pt=(9363,19454), d=847
+   c1=(14390,16095), c2=(11876,17774), c3=(9363,19454), cs=48.2ø, cm=56.2ø, ce=64.3ø, pt=(12010,17941), d=214
+   c1=(14390,16095), c2=(13200,17018), c3=(12010,17941), cs=48.2ø, cm=52.2ø, ce=56.2ø, pt=(13233,17059), d=52
+LINEARISING DONE. c3=(12010,17941) cs=56.2ø (end=80.4)
+LINEARISING: c1=(12010,17941) max=107
+   c1=(12010,17941), c2=(7805,19614), c3=(3601,21288), cs=56.2ø, cm=68.3ø, ce=80.4ø, pt=(7983,20060), d=480
+   c1=(12010,17941), c2=(9996,19000), c3=(7983,20060), cs=56.2ø, cm=62.2ø, ce=68.3ø, pt=(10069,19098), d=122
+   c1=(12010,17941), c2=(11039,18519), c3=(10069,19098), cs=56.2ø, cm=59.2ø, ce=62.2ø, pt=(11055,18545), d=30
+LINEARISING DONE. c3=(10069,19098) cs=62.2ø (end=80.4)
+LINEARISING: c1=(10069,19098) max=107
+   c1=(10069,19098), c2=(6835,20193), c3=(3601,21288), cs=62.2ø, cm=71.3ø, ce=80.4ø, pt=(6922,20450), d=271
+   c1=(10069,19098), c2=(8495,19774), c3=(6922,20450), cs=62.2ø, cm=66.7ø, ce=71.3ø, pt=(8540,19829), d=71
+LINEARISING DONE. c3=(6922,20450) cs=71.3ø (end=80.4)
+LINEARISING: c1=(6922,20450) max=107
+   c1=(6922,20450), c2=(5261,20869), c3=(3601,21288), cs=71.3ø, cm=75.8ø, ce=80.4ø, pt=(5296,20930), d=70
+LINEARISING DONE. c3=(3601,21288) cs=80.4ø (end=80.4)
+EXPORT ARC: Arc linearised to 6 points.
+EXPORT ARC: Unmapped arc: o=(158843,579637), r=24130, sa=48.2ø, ea= 80.4ø.
+EXPORT ARC: CTM: o=(0,0), rot=0.0ø, xscale=1.000000, yscale=1.000000
+LINEARISING: c1=(16083,17988) max=120
+   c1=(16083,17988), c2=(10053,20890), c3=(4024,23792), cs=48.2ø, cm=64.3ø, ce=80.4ø, pt=(10464,21743), d=946
+   c1=(16083,17988), c2=(13273,19865), c3=(10464,21743), cs=48.2ø, cm=56.2ø, ce=64.3ø, pt=(13423,20052), d=239
+   c1=(16083,17988), c2=(14753,19020), c3=(13423,20052), cs=48.2ø, cm=52.2ø, ce=56.2ø, pt=(14789,19066), d=58
+LINEARISING DONE. c3=(13423,20052) cs=56.2ø (end=80.4)
+LINEARISING: c1=(13423,20052) max=120
+   c1=(13423,20052), c2=(8723,21922), c3=(4024,23792), cs=56.2ø, cm=68.3ø, ce=80.4ø, pt=(8922,22420), d=536
+   c1=(13423,20052), c2=(11172,21236), c3=(8922,22420), cs=56.2ø, cm=62.2ø, ce=68.3ø, pt=(11254,21345), d=136
+   c1=(13423,20052), c2=(12338,20698), c3=(11254,21345), cs=56.2ø, cm=59.2ø, ce=62.2ø, pt=(12356,20727), d=34
+LINEARISING DONE. c3=(11254,21345) cs=62.2ø (end=80.4)
+LINEARISING: c1=(11254,21345) max=120
+   c1=(11254,21345), c2=(7639,22568), c3=(4024,23792), cs=62.2ø, cm=71.3ø, ce=80.4ø, pt=(7736,22856), d=303
+   c1=(11254,21345), c2=(9495,22100), c3=(7736,22856), cs=62.2ø, cm=66.7ø, ce=71.3ø, pt=(9545,22162), d=79
+LINEARISING DONE. c3=(7736,22856) cs=71.3ø (end=80.4)
+LINEARISING: c1=(7736,22856) max=120
+   c1=(7736,22856), c2=(5880,23324), c3=(4024,23792), cs=71.3ø, cm=75.8ø, ce=80.4ø, pt=(5919,23393), d=79
+LINEARISING DONE. c3=(4024,23792) cs=80.4ø (end=80.4)
+EXPORT ARC: Arc linearised to 6 points.
+EXPORT ARC: Unmapped arc: o=(158843,579637), r=21590, sa=99.6ø, ea=131.8ø.
+EXPORT ARC: CTM: o=(0,0), rot=0.0ø, xscale=1.000000, yscale=1.000000
+LINEARISING: c1=(-3601,21288) max=107
+   c1=(-3601,21288), c2=(-8995,18691), c3=(-14390,16095), cs=99.6ø, cm=115.7ø, ce=131.8ø, pt=(-9363,19454), d=847
+   c1=(-3601,21288), c2=(-6482,20371), c3=(-9363,19454), cs=99.6ø, cm=107.6ø, ce=115.7ø, pt=(-6528,20579), d=213
+   c1=(-3601,21288), c2=(-5064,20933), c3=(-6528,20579), cs=99.6ø, cm=103.6ø, ce=107.6ø, pt=(-5077,20985), d=53
+LINEARISING DONE. c3=(-6528,20579) cs=107.6ø (end=131.8)
+LINEARISING: c1=(-6528,20579) max=107
+   c1=(-6528,20579), c2=(-10459,18337), c3=(-14390,16095), cs=107.6ø, cm=119.7ø, ce=131.8ø, pt=(-10697,18754), d=480
+   c1=(-6528,20579), c2=(-8612,19666), c3=(-10697,18754), cs=107.6ø, cm=113.6ø, ce=119.7ø, pt=(-8644,19784), d=122
+   c1=(-6528,20579), c2=(-7586,20181), c3=(-8644,19784), cs=107.6ø, cm=110.6ø, ce=113.6ø, pt=(-7596,20210), d=30
+LINEARISING DONE. c3=(-8644,19784) cs=113.6ø (end=131.8)
+LINEARISING: c1=(-8644,19784) max=107
+   c1=(-8644,19784), c2=(-11517,17939), c3=(-14390,16095), cs=113.6ø, cm=122.7ø, ce=131.8ø, pt=(-11664,18168), d=272
+   c1=(-8644,19784), c2=(-10154,18976), c3=(-11664,18168), cs=113.6ø, cm=118.1ø, ce=122.7ø, pt=(-10169,19045), d=70
+LINEARISING DONE. c3=(-11664,18168) cs=122.7ø (end=131.8)
+LINEARISING: c1=(-11664,18168) max=107
+   c1=(-11664,18168), c2=(-13027,17131), c3=(-14390,16095), cs=122.7ø, cm=127.2ø, ce=131.8ø, pt=(-13053,17197), d=70
+LINEARISING DONE. c3=(-14390,16095) cs=131.8ø (end=131.8)
+EXPORT ARC: Arc linearised to 6 points.
+EXPORT ARC: Unmapped arc: o=(158843,579637), r=24130, sa=99.6ø, ea=131.8ø.
+EXPORT ARC: CTM: o=(0,0), rot=0.0ø, xscale=1.000000, yscale=1.000000
+LINEARISING: c1=(-4024,23792) max=120
+   c1=(-4024,23792), c2=(-10053,20890), c3=(-16083,17988), cs=99.6ø, cm=115.7ø, ce=131.8ø, pt=(-10464,21743), d=946
+   c1=(-4024,23792), c2=(-7244,22767), c3=(-10464,21743), cs=99.6ø, cm=107.6ø, ce=115.7ø, pt=(-7296,23000), d=238
+   c1=(-4024,23792), c2=(-5660,23396), c3=(-7296,23000), cs=99.6ø, cm=103.6ø, ce=107.6ø, pt=(-5674,23453), d=58
+LINEARISING DONE. c3=(-7296,23000) cs=107.6ø (end=131.8)
+LINEARISING: c1=(-7296,23000) max=120
+   c1=(-7296,23000), c2=(-11689,20494), c3=(-16083,17988), cs=107.6ø, cm=119.7ø, ce=131.8ø, pt=(-11955,20960), d=536
+   c1=(-7296,23000), c2=(-9625,21980), c3=(-11955,20960), cs=107.6ø, cm=113.6ø, ce=119.7ø, pt=(-9660,22112), d=136
+   c1=(-7296,23000), c2=(-8478,22556), c3=(-9660,22112), cs=107.6ø, cm=110.6ø, ce=113.6ø, pt=(-8490,22587), d=33
+LINEARISING DONE. c3=(-9660,22112) cs=113.6ø (end=131.8)
+LINEARISING: c1=(-9660,22112) max=120
+   c1=(-9660,22112), c2=(-12871,20050), c3=(-16083,17988), cs=113.6ø, cm=122.7ø, ce=131.8ø, pt=(-13036,20306), d=304
+   c1=(-9660,22112), c2=(-11348,21209), c3=(-13036,20306), cs=113.6ø, cm=118.1ø, ce=122.7ø, pt=(-11366,21286), d=79
+LINEARISING DONE. c3=(-13036,20306) cs=122.7ø (end=131.8)
+LINEARISING: c1=(-13036,20306) max=120
+   c1=(-13036,20306), c2=(-14559,19147), c3=(-16083,17988), cs=122.7ø, cm=127.2ø, ce=131.8ø, pt=(-14589,19220), d=78
+LINEARISING DONE. c3=(-16083,17988) cs=131.8ø (end=131.8)
+EXPORT ARC: Arc linearised to 6 points.
